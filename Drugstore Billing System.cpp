@@ -3,6 +3,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+#include<cmath>
 using namespace std;
 
 string name[101]={"","Anees Gandhi","Chirag Menon","Lakshmi Vohra","Bijoy Sabharwal","Nutan Virk","Dinesh Badami","Akhila Baria","Aastha Din","Qadim Dora","Rupal Subramanian","Ajinkya Toor","Chand Chaudhuri","Nagma Rajagopal","Harbhajan Seth","Charandeep Gandhi","Deepesh Koshy","Naseer Nori","Monica Nayar","Maya Koshy","Smriti Srinivas","Yogesh Palla",
