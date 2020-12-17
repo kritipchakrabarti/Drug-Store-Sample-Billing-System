@@ -56,6 +56,7 @@ if(flag==0)
 int found(string* a,string k)
 {
     int flag=0;
+	transform(k.begin(), k.end(), k.begin(), ::toupper);
 for(int i=1;i<101;i++)
 {
 if(k==a[i])
